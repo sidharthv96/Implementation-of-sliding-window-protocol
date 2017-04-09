@@ -1,0 +1,67 @@
+Sending 0
+Sending 1
+ACK 0
+Timer Cancelled 0
+SL is incremented to  1
+Sending 2
+Sending 3
+ACK 2
+Timer Cancelled 2
+ACK 3
+Timer Cancelled 3
+Timeout  1
+ACK 1
+Timer Cancelled 1
+SL is incremented to  2
+SL is incremented to  3
+SL is incremented to  4
+Sending 4
+Sending 5
+ACK 4
+Timer Cancelled 4
+SL is incremented to  5
+Sending 6
+ACK 5
+Timer Cancelled 5
+SL is incremented to  6
+Sending 7
+ACK 6
+Timer Cancelled 6
+SL is incremented to  7
+Sending 8
+ACK 7
+Timer Cancelled 7
+SL is incremented to  8
+Sending 9
+ACK 8
+Timer Cancelled 8
+SL is incremented to  9
+Sending 10
+ACK 9
+Timer Cancelled 9
+SL is incremented to  10
+Sending 11
+ACK 10
+Timer Cancelled 10
+SL is incremented to  11
+Sending 12
+ACK 11
+Timer Cancelled 11
+SL is incremented to  12
+Sending 13
+ACK 12
+Timer Cancelled 12
+SL is incremented to  13
+Sending 14
+ACK 13
+Timer Cancelled 13
+SL is incremented to  14
+Sending 15
+ACK 14
+Timer Cancelled 14
+SL is incremented to  15
+Timeout  15
+ACK 15
+Timer Cancelled 15
+SL is incremented to  16
+Data Transmitted Successfully

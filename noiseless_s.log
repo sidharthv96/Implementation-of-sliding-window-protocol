@@ -1,0 +1,36 @@
+Got connection from ('192.168.1.2', 50958)
+Recieved Frame  0  Data :  a
+RL is incremented to  1
+Recieved Frame  1  Data :  b
+RL is incremented to  2
+Recieved Frame  2  Data :  c
+RL is incremented to  3
+Recieved Frame  3  Data :  d
+RL is incremented to  4
+Recieved Frame  1  Data :  b
+Recieved Frame  4  Data :  e
+RL is incremented to  5
+Recieved Frame  5  Data :  f
+RL is incremented to  6
+Recieved Frame  6  Data :  g
+RL is incremented to  7
+Recieved Frame  7  Data :  h
+RL is incremented to  8
+Recieved Frame  8  Data :  i
+RL is incremented to  9
+Recieved Frame  9  Data :  j
+RL is incremented to  10
+Recieved Frame  10  Data :  k
+RL is incremented to  11
+Recieved Frame  11  Data :  l
+RL is incremented to  12
+Recieved Frame  12  Data :  m
+RL is incremented to  13
+Recieved Frame  13  Data :  n
+RL is incremented to  14
+Recieved Frame  14  Data :  o
+RL is incremented to  15
+Recieved Frame  15  Data :  p
+RL is incremented to  16
+Recieved Frame  15  Data :  p
+Recieved Data :  a b c d e f g h i j k l m n o p

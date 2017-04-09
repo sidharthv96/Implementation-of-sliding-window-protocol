@@ -1,0 +1,130 @@
+Sending 0
+Sending 1
+Sending 2
+ACK 2
+Timer Cancelled 2
+Sending 3
+ACK 3
+Timer Cancelled 3
+Timeout  0
+Timeout  1
+ACK 1
+Timer Cancelled 1
+Timeout  0
+ACK 0
+Timer Cancelled 0
+SL is incremented to  1
+SL is incremented to  2
+SL is incremented to  3
+SL is incremented to  4
+Sending 4
+Sending 5
+ACK 5
+Timer Cancelled 5
+Sending 6
+ACK 6
+Timer Cancelled 6
+Sending 7
+Frame  7  lost in transmission
+Timeout  4
+ACK 4
+Timer Cancelled 4
+SL is incremented to  5
+SL is incremented to  6
+SL is incremented to  7
+Sending 8
+Frame  8  lost in transmission
+Sending 9
+ACK 9
+Timer Cancelled 9
+Sending 10
+Timeout  7
+ACK 10
+Timer Cancelled 10
+ACK 7
+Timer Cancelled 7
+SL is incremented to  8
+Sending 11
+Frame  11  lost in transmission
+Timeout  8
+Timeout  11
+ACK 11
+Timer Cancelled 11
+Timeout  8
+Timeout  8
+ACK 8
+Timer Cancelled 8
+SL is incremented to  9
+SL is incremented to  10
+SL is incremented to  11
+SL is incremented to  12
+Sending 12
+Sending 13
+ACK 13
+Timer Cancelled 13
+Sending 14
+ACK 14
+Timer Cancelled 14
+Sending 15
+ACK 15
+Timer Cancelled 15
+Timeout  12
+Timeout  12
+ACK 12
+Timer Cancelled 12
+SL is incremented to  13
+SL is incremented to  14
+SL is incremented to  15
+SL is incremented to  16
+Sending 16
+ACK 16
+Timer Cancelled 16
+SL is incremented to  17
+Sending 17
+Frame  17  lost in transmission
+Sending 18
+Sending 19
+ACK 19
+Timer Cancelled 19
+Sending 20
+Frame  20  lost in transmission
+Timeout  17
+ACK 17
+Timer Cancelled 17
+SL is incremented to  18
+Sending 21
+Timeout  18
+ACK 21
+Timer Cancelled 21
+Timeout  20
+Timeout  18
+ACK 18
+Timer Cancelled 18
+SL is incremented to  19
+SL is incremented to  20
+Sending 22
+Frame  22  lost in transmission
+Sending 23
+Timeout  20
+ACK 23
+Timer Cancelled 23
+ACK 20
+Timer Cancelled 20
+SL is incremented to  21
+SL is incremented to  22
+Sending 24
+ACK 24
+Timer Cancelled 24
+Sending 25
+Frame  25  lost in transmission
+Timeout  22
+ACK 22
+Timer Cancelled 22
+SL is incremented to  23
+SL is incremented to  24
+SL is incremented to  25
+Timeout  25
+ACK 25
+Timer Cancelled 25
+SL is incremented to  26
+Data Transmitted Successfully

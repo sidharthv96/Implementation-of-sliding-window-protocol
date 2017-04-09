@@ -1,0 +1,76 @@
+Got connection from ('192.168.1.2', 51095)
+Recieved Frame  0  Data :  a
+ACK  0  not sent or lost
+Recieved Frame  1  Data :  b
+ACK  1  not sent or lost
+Recieved Frame  2  Data :  c
+Recieved Frame  3  Data :  d
+Recieved Frame  0  Data :  a
+ACK  0  not sent or lost
+Recieved Frame  1  Data :  b
+Recieved Frame  0  Data :  a
+RL is incremented to  1
+RL is incremented to  2
+RL is incremented to  3
+RL is incremented to  4
+Recieved Frame  4  Data :  e
+ACK  4  not sent or lost
+Recieved Frame  5  Data :  f
+Recieved Frame  6  Data :  g
+Recieved Frame  4  Data :  e
+RL is incremented to  5
+RL is incremented to  6
+RL is incremented to  7
+Recieved Frame  9  Data :  j
+Recieved Frame  10  Data :  k
+Recieved Frame  7  Data :  h
+RL is incremented to  8
+Recieved Frame  8  Data :  i
+ACK  8  not sent or lost
+Recieved Frame  11  Data :  l
+Recieved Frame  8  Data :  i
+ACK  8  not sent or lost
+Recieved Frame  8  Data :  i
+RL is incremented to  9
+RL is incremented to  10
+RL is incremented to  11
+RL is incremented to  12
+Recieved Frame  12  Data :  m
+ACK  12  not sent or lost
+Recieved Frame  13  Data :  n
+Recieved Frame  14  Data :  o
+Recieved Frame  15  Data :  p
+Recieved Frame  12  Data :  m
+ACK  12  not sent or lost
+Recieved Frame  12  Data :  m
+RL is incremented to  13
+RL is incremented to  14
+RL is incremented to  15
+RL is incremented to  16
+Recieved Frame  16  Data :  q
+RL is incremented to  17
+Recieved Frame  18  Data :  s
+ACK  18  not sent or lost
+Recieved Frame  19  Data :  t
+Recieved Frame  17  Data :  r
+RL is incremented to  18
+RL is incremented to  19
+RL is incremented to  20
+Recieved Frame  21  Data :  v
+Recieved Frame  18  Data :  s
+ACK  18  not sent or lost
+Recieved Frame  20  Data :  u
+ACK  20  not sent or lost
+Recieved Frame  18  Data :  s
+Recieved Frame  23  Data :  x
+Recieved Frame  20  Data :  u
+RL is incremented to  21
+RL is incremented to  22
+Recieved Frame  24  Data :  y
+Recieved Frame  22  Data :  w
+RL is incremented to  23
+RL is incremented to  24
+RL is incremented to  25
+Recieved Frame  25  Data :  z
+RL is incremented to  26
+Recieved Data :  a b c d e f g h i j k l m n o p q r s t u v w x y z
